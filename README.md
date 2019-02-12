@@ -1,5 +1,5 @@
 # labpy
-##contoh program sederhana if, else
+##contoh program sederhana if, elif, else
 
 1. buka python
 
